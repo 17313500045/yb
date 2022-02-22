@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 this is new file ,from chinawwww
 new ;
+=======
+this is new file ,from china  jjj;
+
+new:
+
+>>>
+>>>> log
